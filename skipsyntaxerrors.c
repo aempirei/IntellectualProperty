@@ -1,0 +1,3 @@
+#ifdef IGNORESYNTAXERRORS
+)
+#endif
